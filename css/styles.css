@@ -73,3 +73,8 @@ main > .tagline {
 	width: 2.65rem;
 	height: 2.65rem;
 }
+
+.link {
+  text-decoration: none;
+  color: #bec111;
+}
